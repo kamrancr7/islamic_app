@@ -1,16 +1,7 @@
-# islamic_app
+Convert dribbble design into Flutter
+you can check the dribbble design from the following link
+https://dribbble.com/shots/5971153-Muslim-App
 
-A new Flutter application.
+Following is the output of Flutter App.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/kamrancr7/islamic_app/blob/master/screenshot/screen_shot.jpg)
